@@ -1,1 +1,1 @@
-Git with bash
+Git with bash.
